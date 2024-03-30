@@ -4,6 +4,8 @@ I've tried to write it a few times, and each time it's collapsed after a few doz
 
 My goal this time around, I think, is less about actually creating a playable game, and more about crafting an architecture for a game, from the top down, starting with an initial vision and designing each aspect of it, selecting data structures and algorithms, sketching out plans that I'll never see to fruition. I don't intend to write a single line of code, at least not now.
 
+So yes, I'm giving up on this project before I've even started it.
+
 ## Previously...
 
 My current ideas are the result of an iterative process with me banging my head against one wall after another for several years. So this repository has some archived versions of previous incarnations:
