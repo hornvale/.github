@@ -6,6 +6,10 @@ My goal this time around, I think, is less about actually creating a playable ga
 
 So yes, I'm giving up on this project before I've even started it.
 
+## Repositories
+
+- **[Book](https://github.com/hornvale/book/)**: A series of articles about aspects of _Hornvale_, its design, inspiration, etc.
+
 ## Previously...
 
 My current ideas are the result of an iterative process with me banging my head against one wall after another for several years. So this repository has some archived versions of previous incarnations:
