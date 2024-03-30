@@ -8,7 +8,7 @@ So yes, I'm giving up on this project before I've even started it.
 
 ## Repositories
 
-- **[Book](https://github.com/hornvale/book/)**: A series of articles about aspects of _Hornvale_, its design, inspiration, etc.
+- **[Book](https://github.com/hornvale/book/)**: A series of articles about aspects of _Hornvale_, its design, inspiration, etc. Or read it [here](https://hornvale.github.io/book/).
 
 ## Previously...
 
