@@ -8,6 +8,7 @@ So yes, I'm giving up on this project before I've even started it.
 
 ## Repositories
 
+- **[Hornvale](https://github.com/hornvale/hornvale/)**: The actual project, which is coming along _slowly_.
 - **The [Book](https://github.com/hornvale/book/)**: A series of articles about aspects of _Hornvale_, its design, inspiration, etc. Or read it [here](https://hornvale.github.io/book/).
 - **The [Spec](https://github.com/hornvale/spec/)**: Some notes I started throwing out about formalizing some aspects of the design and drafting algorithms in Python.
 
