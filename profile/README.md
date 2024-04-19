@@ -1,22 +1,5 @@
 [**Hornvale**](https://github.com/hornvale/hornvale) is an experimental open-world text adventure game.
 
-I've tried to write it a few times, and each time it's collapsed after a few dozen or hundred commits. I'm not sure if it's really possible to accomplish, or if I'm really capable of implementing it. In its current form, it's hatching from a depression and deep despair about software development, large language models, and art and culture in the 21st century.
-
-My goal this time around, I think, is less about actually creating a playable game, and more about crafting an architecture for a game, from the top down, starting with an initial vision and designing each aspect of it, selecting data structures and algorithms, sketching out plans that I'll never see to fruition. I don't intend to write a single line of code, at least not now.
-
-So yes, I'm giving up on this project before I've even started it.
-
-## Repositories
-
-- **[Hornvale](https://github.com/hornvale/hornvale/)**: The actual project, which is coming along _slowly_.
-- **The [Book](https://github.com/hornvale/book/)**: A series of articles about aspects of _Hornvale_, its design, inspiration, etc. Or read it [here](https://hornvale.github.io/book/).
-- **The [Spec](https://github.com/hornvale/spec/)**: Some notes I started throwing out about formalizing some aspects of the design and drafting algorithms in Python.
-
-## Previously...
-
-My current ideas are the result of an iterative process with me banging my head against one wall after another for several years. So this repository has some archived versions of previous incarnations:
-- [2022](https://github.com/hornvale/hornvale-2022)
-- [2023](https://github.com/hornvale/hornvale-2023)
-- [2024](https://github.com/hornvale/hornvale-2024)
-
-None are in a very functional state, but at least give some idea of where I was trying to go.
+- **💓 Status**: Pre-alpha, but under active development.
+- **📘 Book**: Development blog/rants [here](https://hornvale.github.io/hornvale/).
+- **🎮 Playable?**: Not yet, though I have some examples and a working game loop.
