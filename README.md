@@ -1,2 +1,3 @@
 # .github
-Hornvale is an experimental MUD built on the Mistwood library.
+
+Hornvale is an experimental simulation with elements of MUDs, text adventures, and sandboxes.
